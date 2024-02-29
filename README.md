@@ -29,7 +29,3 @@ This project is licensed under the GNU General Public License (GPL) version 3.0.
 ## Support
 
 If you encounter any issues or have questions regarding ExpressHive, please feel free to reach out to us via [GitHub Issues](https://github.com/divy-koushik-mishra/express-hive/issues).
-
----
-
-Make sure to replace `"your-project-repo"` with the actual repository URL where users can find support for your project. Additionally, don't forget to include the full text of the GNU General Public License (GPL) version 3.0 in your `LICENSE.txt` file.
